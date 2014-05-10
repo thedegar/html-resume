@@ -1,0 +1,73 @@
+/** {
+	border: 1px solid red;
+}*/
+
+body {
+	background-color: #FFFFF3;
+}
+
+a {
+	target="_blank"
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 1px;
+}
+
+h3 {
+	margin-left: 25px;
+	color: green;
+	font-weight: bold;
+	font-family: Times;
+	font-size: 1.2em;
+}
+
+.contact_info {
+	text-align: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	width: 49%;
+}
+
+.box {
+	border: 2px solid #D1A319;
+	border-radius: 2px solid #D1A319;
+	margin-top: 5px;
+}
+
+.jobs {
+	list-style-type: none;
+}
+
+#bottom {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	width: 100%;
+	float: left;
+}
+
+.bottom {
+	width: 49%;
+	float: left;
+}
+
+a:link {
+	text-decoration: none;
+	color: green;
+}
+
+a:visited {
+	text-decoration: none;
+	color: green;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #D65CFF;
+	font-weight: bolder;
+}
